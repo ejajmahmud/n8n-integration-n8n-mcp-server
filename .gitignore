@@ -1,0 +1,14 @@
+n8n_data/
+*.db
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+src/n8n_mcp_server.egg-info/
+*.egg-info/
+dist/
+build/
